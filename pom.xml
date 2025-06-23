@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.zhidongzhang.network</groupId>
+    <artifactId>Java-frp</artifactId>
+    <version>1.0</version>
+    <packaging>pom</packaging>
+    <name>Java-frp</name>
+    <modules>
+        <module>frpc</module>
+        <module>frps</module>
+        <module>common</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.yaml</groupId>
+            <artifactId>snakeyaml</artifactId>
+            <version>2.0</version>
+        </dependency>
+    </dependencies>
+
+</project>
