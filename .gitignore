@@ -1,2 +1,5 @@
-.idea
+# IDE
+.idea/
+.vscode/
+# Java
 *.class
