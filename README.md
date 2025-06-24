@@ -98,7 +98,7 @@ frp-common/
 
 ### 客户端
 
-frpc，内网代理节点
+frpc 内网代理节点
 
 ```text
 frp-client/  
@@ -122,7 +122,7 @@ frp-client/
 
 ### 服务端
 
-frps，公网中转节点
+frps 公网中转节点
 
 ```text
 frp-server/  
