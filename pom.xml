@@ -7,8 +7,8 @@
     <packaging>pom</packaging>
     <name>Java-frp</name>
     <modules>
-        <module>frpc</module>
         <module>frps</module>
+        <module>frpc</module>
         <module>common</module>
     </modules>
     <dependencies>
